@@ -1,0 +1,17 @@
+.footer {
+  background-color: #2C2B2B;
+  padding: 50px;
+  margin-top: 32px;
+  text-align: center;
+}
+
+.footer ul {
+  list-style: none;
+  padding: 0;
+  display: inline-flex;
+  margin: 0;
+}
+
+.footer p {
+  color: rgba(200,200,200,0.5);
+}
